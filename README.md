@@ -9,7 +9,6 @@ SpamShield is an Email Spam Detection System developed using Java Servlet, JSP, 
 - View History
 - Delete Records
 - Dashboard
-- Statistics
 
 ## Technologies Used
 
