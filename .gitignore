@@ -1,0 +1,17 @@
+# Eclipse
+.metadata/
+bin/
+
+# Java
+*.class
+
+# Tomcat
+Servers/
+
+# IDE
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
