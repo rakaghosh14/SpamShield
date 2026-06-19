@@ -1,12 +1,12 @@
 # SpamShield
 
-## 📌 Overview
+##  Overview
 
 SpamShield is a web-based Email Spam Detection System developed using Java Servlet, JSP, JDBC, Oracle Database, and Apache Tomcat. The application analyzes email content, classifies emails as spam or safe, stores analysis results in the database, and provides history and dashboard statistics for monitoring email activities.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Analyze email subject and body.
 * Detect spam based on predefined keywords.
@@ -25,7 +25,7 @@ SpamShield is a web-based Email Spam Detection System developed using Java Servl
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Java
 * JSP
@@ -42,7 +42,7 @@ SpamShield is a web-based Email Spam Detection System developed using Java Servl
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 SpamShield
@@ -85,7 +85,7 @@ SpamShield
 
 ---
 
-# 🏗 Architecture
+#  Architecture
 
 The project follows the MVC (Model-View-Controller) architecture.
 
@@ -129,7 +129,7 @@ Provides helper classes.
 
 ---
 
-# ⚙ Workflow
+#  Workflow
 
 1. User enters email subject and body.
 2. AnalyzeEmailServlet receives request.
@@ -141,7 +141,7 @@ Provides helper classes.
 
 ---
 
-# 🗄 Database
+#  Database
 
 ### Table : EMAIL_ANALYSIS
 
@@ -156,31 +156,31 @@ Provides helper classes.
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ### Home Page
 
-(Add Screenshot)
+![Home Page](screenshots/Home.png)
 
 ### Analyze Email
 
-(Add Screenshot)
+![Analyze Page](screenshots/Analyze.png)
 
 ### Result Page
 
-(Add Screenshot)
+![Result Page](screenshots/Result.png)
 
 ### History Page
 
-(Add Screenshot)
+![History Page](screenshots/History.png)
 
 ### Dashboard
 
-(Add Screenshot)
+![Dashboard Page](screenshots/Dashboard.png)
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 * Search emails by subject.
 * Filter Spam and Safe emails.
@@ -192,7 +192,7 @@ Provides helper classes.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Raka Ghosh**
 
