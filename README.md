@@ -160,23 +160,23 @@ Provides helper classes.
 
 ### Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](screenshots/Home)
 
 ### Analyze Email
 
-![Analyze Page](screenshots/Analyze.png)
+![Analyze Page](screenshots/Analyze)
 
 ### Result Page
 
-![Result Page](screenshots/Result.png)
+![Result Page](screenshots/Result)
 
 ### History Page
 
-![History Page](screenshots/History.png)
+![History Page](screenshots/History)
 
 ### Dashboard
 
-![Dashboard Page](screenshots/Dashboard.png)
+![Dashboard Page](screenshots/Dashboard)
 
 ---
 
