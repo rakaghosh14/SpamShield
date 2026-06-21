@@ -46,33 +46,20 @@ cursor:pointer;
 
 <h1>Email Analysis</h1>
 
-<form action="AnalyzeEmailServlet" method="post">
-
-Subject
-
-<input type="text" name="subject" required>
+<form action="AnalyzeEmailServlet" method="post"> Subject <input type="text" name="subject" required>
 
 Email Body
 
 <textarea rows="8" name="body" required></textarea>
 
-<button type="submit">
-
-Analyze
-
-</button>
+<button type="submit"> Analyze </button>
 
 </form>
 
 <br>
 
-<a href="index.jsp">
-
- Back To Home
-
-</a>
+<a href="index.jsp"> Back To Home </a>
 
 </div>
-
 </body>
 </html>

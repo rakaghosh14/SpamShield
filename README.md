@@ -37,7 +37,6 @@ SpamShield is a web-based Email Spam Detection System developed using Java Servl
 * HTML
 * CSS
 * JavaScript
-* Chart.js
 * Git & GitHub
 
 ---
@@ -138,6 +137,25 @@ Provides helper classes.
 5. EmailDAO stores data into Oracle Database.
 6. Result page displays spam status.
 7. User can view history and dashboard statistics.
+
+Diagram:
+User
+  ↓
+JSP Pages
+(index.jsp, analyze.jsp, history.jsp, dashboard.jsp)
+  ↓
+Servlets
+(AnalyzeEmailServlet, HistoryServlet,
+ DeleteServlet, DashboardServlet)
+  ↓
+SpamDetector Utility
+(keyword-based score)
+  ↓
+EmailDAO
+(JDBC)
+  ↓
+Oracle Database
+(email_analysis table)
 
 ---
 
