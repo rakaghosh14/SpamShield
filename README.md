@@ -20,7 +20,6 @@ SpamShield is a web-based Email Spam Detection System developed using Java Servl
   * Total Emails
   * Spam Emails
   * Safe Emails
-* Pie chart visualization.
 * Built using MVC Architecture and DAO Pattern.
 
 ---
